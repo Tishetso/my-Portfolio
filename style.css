@@ -109,10 +109,20 @@ nav .right a span{
 }
 
 .hero-section .headshot img{
-    width: 350px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
     border-radius: 50%;
 }
 
+
+/* .testimony-section .group .person-details img{
+    aspect-ratio: 1/1;
+    width:200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 10px;
+} */
 /* Section 2 : skills */
 .skills-section{
     padding: 0 50px;
